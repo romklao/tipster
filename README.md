@@ -9,3 +9,4 @@ Requires Xcode 7 and iOS 8 or newer.
 
 [![Watch the video](https://www.youtube.com/watch?v=wIsLzAT5WyA&feature=youtu.be]
 
+[![Watch the video](https://raw.github.com/GabLeRoux/https://www.youtube.com/watch?v=wIsLzAT5WyA&feature=youtu.be]
