@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D6BACF471F34273D0079A4D6 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D6BACF461F34273D0079A4D6 /* README.md */; };
 		D6FEF1091F32E6F00016679C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6FEF1081F32E6F00016679C /* AppDelegate.swift */; };
 		D6FEF10B1F32E6F00016679C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6FEF10A1F32E6F00016679C /* ViewController.swift */; };
 		D6FEF10E1F32E6F00016679C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6FEF10C1F32E6F00016679C /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D6BACF461F34273D0079A4D6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D6FEF1051F32E6F00016679C /* tipster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tipster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6FEF1081F32E6F00016679C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6FEF10A1F32E6F00016679C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		D6FEF0FC1F32E6F00016679C = {
 			isa = PBXGroup;
 			children = (
+				D6BACF461F34273D0079A4D6 /* README.md */,
 				D6FEF1071F32E6F00016679C /* tipster */,
 				D6FEF11C1F32E6F00016679C /* tipsterTests */,
 				D6FEF1271F32E6F00016679C /* tipsterUITests */,
@@ -264,6 +267,7 @@
 			files = (
 				D6FEF10B1F32E6F00016679C /* ViewController.swift in Sources */,
 				D6FEF1091F32E6F00016679C /* AppDelegate.swift in Sources */,
+				D6BACF471F34273D0079A4D6 /* README.md in Sources */,
 				D6FEF1371F3302BE0016679C /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -509,6 +513,7 @@
 				D6FEF12F1F32E6F00016679C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D6FEF1301F32E6F00016679C /* Build configuration list for PBXNativeTarget "tipsterTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +522,7 @@
 				D6FEF1321F32E6F00016679C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D6FEF1331F32E6F00016679C /* Build configuration list for PBXNativeTarget "tipsterUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +531,7 @@
 				D6FEF1351F32E6F00016679C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

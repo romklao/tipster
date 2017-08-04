@@ -7,5 +7,9 @@ Requires Xcode 7 and iOS 8 or newer.
 - Calculate tip at three common rates in the United States: 18%, 20%, 25%
 - Tip is calculated by multiply totlal bill with a tip rate.
 
-[![Watch the video](https://www.youtube.com/watch?v=wIsLzAT5WyA&feature=youtu.be]
+
+### Walkthrough
+
+[![](tipsterGif.gif)](tipsterGif.gif)]
+
 
