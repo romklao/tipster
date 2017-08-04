@@ -10,6 +10,6 @@ Requires Xcode 7 and iOS 8 or newer to build.
 
 ### Walkthrough
 
-[![](tipsterGif.gif)](tipsterGif.gif)]
+[![](tipsterGif.gif)](tipsterGif.gif)
 
 
